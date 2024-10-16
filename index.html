@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dino Game</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f7f7f7;
+        }
+        #game {
+            position: relative;
+            width: 600px;
+            height: 150px;
+            overflow: hidden;
+            background: #fff;
+            border: 2px solid #000;
+        }
+        #dino {
+            position: absolute;
+            bottom: 0;
+            left: 50px;
+            width: 40px;
+            height: 40px;
+            background: green;
+        }
+        .cactus {
+            position: absolute;
+            bottom: 0;
+            width: 20px;
+            height: 40px;
+            background: red;
+        }
+    </style>
+</head>
+<body>
+    <div id="game">
+        <div id="dino"></div>
+    </div>
+    <script>
+        const dino = document.getElementById('dino');
+        const game = document.getElementById('game');
+
+        let isJumping = false;
+        let score = 0;
+
+        document.addEventListener('keydown', () => {
+            if (!isJumping) {
+                isJumping = true;
+                dino.style.bottom = '100px';
+                setTimeout(() => {
+                    dino.style.bottom = '0';
+                    isJumping = false;
+                }, 500);
+            }
+        });
+
+        function createCactus() {
+            const cactus = document.createElement('div');
+            cactus.classList.add('cactus');
+            cactus.style.right = '0';
+            game.appendChild(cactus);
+
+            let cactusInterval = setInterval(() => {
+                let cactusPosition = parseInt(getComputedStyle(cactus).getPropertyValue('right'));
+                if (cactusPosition > 600) {
+                    clearInterval(cactusInterval);
+                    cactus.remove();
+                    score++;
+                    console.log('Score:', score);
+                } else if (cactusPosition > 50 && cactusPosition < 100 && !isJumping) {
+                    clearInterval(cactusInterval);
+                    alert('Game Over! Final Score: ' + score);
+                    location.reload();
+                } else {
+                    cactus.style.right = cactusPosition + 5 + 'px';
+                }
+            }, 20);
+        }
+
+        setInterval(createCactus, 2000);
+    </script>
+</body>
+</html>
