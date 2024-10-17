@@ -7,7 +7,7 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Cyber Security Enthusiast | Bug Hunter | Blogger. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="35" width="40">
-- 📝 I write articles on <a href="https://dewangpanchal98.medium.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/332113/medium-square.svg" alt="th3.d1p4k" height="35" width="40" /></a>
+- 📝 I write articles on <a href="https://dewangpanchal98.medium.com/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/228BE6/medium-monogram--v1.png" alt="th3.d1p4k" height="30" width="34" /></a> related to Bug bounty and research.
 - 💻 I use : **Linux**, **Burpi**, etc. <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali" height="40" width="50" /></a>
 - 📖 I'm currently doing research on **Android Pentesting**. I'll soon publish an article on it. <img align="center" src="https://www.svgrepo.com/show/475631/android-color.svg" alt="th3.d1p4k" height="30" width="35" /></a>
 - ⚡ I play **CTF** sometime... <img align="center" src="https://img.icons8.com/external-kmg-design-glyph-kmg-design/32/228BE6/external-insect-cyber-security-kmg-design-glyph-kmg-design.png" alt="th3.d1p4k" height="30" width="35" /></a>
@@ -32,12 +32,10 @@
 
 
 ## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Blog posts:
-<!-- BLOG-POST-LIST:START -->
 - [Tale of my first bounty](https://dewangpanchal98.medium.com/tell-of-my-first-bounty-d3c5a85e18c9)
 - [Microsoft Bug bounty](https://dewangpanchal98.medium.com/microsoft-bug-bounty-writeup-5ee4a7264dbf)
 - [403 Forbidden bypass](https://dewangpanchal98.medium.com/403-forbidden-bypass-fc8b5df109b7)
 - [Explot CVE-2022-23808](https://infosecwriteups.com/exploit-cve-2022-23808-85041c6e5b97)
-<!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://dewangpanchal98.medium.com/)
 
