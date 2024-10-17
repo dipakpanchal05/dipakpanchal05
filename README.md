@@ -40,7 +40,7 @@
 ▶ [... view more](https://dewangpanchal98.medium.com/)
 
 
-## My Contribution:
+## My Contributions:
 - ### Dirsearch  <a href="https://github.com/dipakpanchal05/dirsearch" target="blank"><img align="center" src="https://www.kali.org/tools/dirsearch/images/dirsearch-logo.svg" alt="dirsearch" height="40" width="170" /></a>
 
 - ### Nuclei Templates <a href="https://github.com/dipakpanchal05/nuclei-templates" target="blank"><img align="center" src="https://raw.githubusercontent.com/projectdiscovery/nuclei/refs/heads/dev/static/nuclei-logo.png" alt="nuclei" height="30" width="110" /></a>
