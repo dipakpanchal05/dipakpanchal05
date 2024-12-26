@@ -4,12 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakpanchal05&label=Profile%20views&color=0e75b6&style=flat" alt="dipakpanchal05" /> </p>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: 
+- `"In the world full of codes, I'm the gl1tcH in the matrix."` **</th3.d1p4k>**
 - 🏦 I'm a Cyber Security Enthusiast | Bug Hunter | Blogger. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="35" width="40">
 - 📝 I write articles on <a href="https://dewangpanchal98.medium.com/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/228BE6/medium-monogram--v1.png" alt="th3.d1p4k" height="30" width="34" /></a> related to Bug bounty and research.
 - 💻 I use : **Linux**, **Burpi**, etc. <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali" height="40" width="50" /></a>
-- 📖 I'm currently doing research on **Android Pentesting**. I'll soon publish an article on it. <img align="center" src="https://www.svgrepo.com/show/475631/android-color.svg" alt="th3.d1p4k" height="30" width="35" /></a>
 - ⚡ I play **CTF** sometime... <img align="center" src="https://img.icons8.com/external-kmg-design-glyph-kmg-design/32/228BE6/external-insect-cyber-security-kmg-design-glyph-kmg-design.png" alt="th3.d1p4k" height="30" width="35" /></a>
 - 💬 I have 15+ **CVEs** including **phpMyAdmin** <a href="https://www.phpmyadmin.net/security/PMASA-2022-2/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="th3.d1p4k" height="30" width="40" /></a>
 
