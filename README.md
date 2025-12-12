@@ -8,10 +8,10 @@
 - `"In the world full of codes, I'm the gl1tcH in the matrix."` **</th3.d1p4k>**
 - 🏦 I'm a Cyber Security Enthusiast | Bug Hunter | Blogger. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="35" width="40">
-- 📝 I write articles on <a href="https://dewangpanchal98.medium.com/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/228BE6/medium-monogram--v1.png" alt="th3.d1p4k" height="30" width="34" /></a> related to Bug bounty and research.
+- 📝 I write articles on <a href="https://tpi.li/Medium" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/228BE6/medium-monogram--v1.png" alt="th3.d1p4k" height="30" width="34" /></a> related to Bug bounty and research.
 - 💻 I use : **Linux**, **Burpi**, etc. <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali" height="40" width="50" /></a>
 - ⚡ I play **CTF** sometime... <img align="center" src="https://img.icons8.com/external-kmg-design-glyph-kmg-design/32/228BE6/external-insect-cyber-security-kmg-design-glyph-kmg-design.png" alt="th3.d1p4k" height="30" width="35" /></a>
-- 💬 I have 15+ **CVEs** including **phpMyAdmin** <a href="https://www.phpmyadmin.net/security/PMASA-2022-2/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="th3.d1p4k" height="30" width="40" /></a>
+- 💬 I have 15+ **CVEs** including **phpMyAdmin** <a href="https://tpi.li/pmasec" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="th3.d1p4k" height="30" width="40" /></a>
 
 ## <img src= "https://cdn.worldvectorlogo.com/logos/kali-1.svg" width= "45"> Tools:
 <img src= "https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" height= "50" width= "50"> <img src= "https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" height= "50" width= "50">
@@ -32,12 +32,12 @@
 
 
 ## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Blog posts:
-- [Tale of my first bounty](https://dewangpanchal98.medium.com/tell-of-my-first-bounty-d3c5a85e18c9)
-- [Microsoft Bug bounty](https://dewangpanchal98.medium.com/microsoft-bug-bounty-writeup-5ee4a7264dbf)
-- [403 Forbidden bypass](https://dewangpanchal98.medium.com/403-forbidden-bypass-fc8b5df109b7)
-- [Explot CVE-2022-23808](https://infosecwriteups.com/exploit-cve-2022-23808-85041c6e5b97)
+- [Tale of my first bounty](https://tpi.li/firstbounty)
+- [Microsoft Bug bounty](https://tpi.li/msbugbounty)
+- [403 Forbidden bypass](https://tpi.li/403bypass)
+- [Explot CVE-2022-23808](https://tpi.li/pmawriteup)
 
-▶ [... view more](https://dewangpanchal98.medium.com/)
+▶ [... view more](https://tpi.li/Medium)
 
 
 ## My Contributions:
@@ -51,10 +51,10 @@
 
 ## <h3 align="left"> Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/th3.d1p4k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/instagram.svg" alt="th3.d1p4k" height="30" width="40" /></a>
-<a href="https://twitter.com/dipakpanchal05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipakpanchal05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dipakpanchal05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipakpanchal05" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@dipakpanchal8635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/youtube.svg" alt="th3.d1p4k" height="38" width="45" /></a>
+<a href="https://tpi.li/thedipak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/instagram.svg" alt="th3.d1p4k" height="30" width="40" /></a>
+<a href="https://tpi.li/thedipaktwitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipakpanchal05" height="30" width="40" /></a>
+<a href="https://tpi.li/thedipaklinkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipakpanchal05" height="30" width="40" /></a>
+<a href="https://tpi.li/thedipakyoutube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/youtube.svg" alt="th3.d1p4k" height="38" width="45" /></a>
 </p>
 
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30' /> My Github Stats:
