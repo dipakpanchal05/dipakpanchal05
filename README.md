@@ -7,10 +7,15 @@
 ## About Me
 - 🏦 I'm a Cyber Security Enthusiast | Bug Hunter | Blogger. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="35" width="40">
+      
 - 📝 I write articles on <a href="https://dewangpanchal98.medium.com" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/228BE6/medium-monogram--v1.png" alt="medium" height="24" width="29" /></a> related to Bug bounty and research.
-- 💻 I use : **Linux**, **Burpi**, etc. <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali" height="40" width="50" /></a>
+  
+- 💻 I use : **Linux**, **Burpi**, etc. <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali" height="37" width="50" /></a>
+
 - ⚡ I play **CTF** sometime... <img align="center" src="https://img.icons8.com/external-kmg-design-glyph-kmg-design/32/228BE6/external-insect-cyber-security-kmg-design-glyph-kmg-design.png" alt="Exploit-db" height="30" width="35" /></a>
+
 - 💬 I have 15+ **CVEs** including **phpMyAdmin** <a href="https://github.com/dipakpanchal05/CVE-2022-23808" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpMyAdmin" height="30" width="40" /></a>
+
 - `"In the world full of codes, I'm the gl1tcH in the matrix."` **</th3.d1p4k>**
 
 ## Tools
