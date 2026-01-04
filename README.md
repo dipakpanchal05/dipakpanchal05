@@ -14,9 +14,10 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="350" height="290" align="right" />
   <ul>
+    
 - 🏦 I'm a Cyber Security Enthusiast | Bug Hunter | Blogger. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="35" width="40">
-      
+
 - 📝 I write articles on <a href="https://dewangpanchal98.medium.com" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/228BE6/medium-monogram--v1.png" alt="medium" height="24" width="29" /></a> related to Bug bounty and research.
   
 - 💻 I use : **Linux**, **Burpi**, etc. <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali" height="37" width="50" /></a>
@@ -53,7 +54,7 @@
 <img src= "https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" height= "50" width= "50">
 <img src= "https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" height= "50" width= "50">
 <img src= "https://www.kali.org/tools/dirb/images/dirb-logo.svg" height= "50" width= "50">
-<img src= "https://www.logo.wine/a/logo/Tor_(anonymity_network)/Tor_(anonymity_network)-Logo.wine.svg" height= "60" width= "65">
+<img src= "https://www.logo.wine/a/logo/Tor_(anonymity_network)/Tor_(anonymity_network)-Logo.wine.svg" height= "100" width= "70">
 <img src= "https://www.kali.org/tools/hydra/images/hydra-logo.svg" height= "50" width= "50">
 <img src= "https://www.kali.org/tools/john/images/john-logo.svg" height= "55" width= "52">
 <img src= "https://www.kali.org/tools/maltego/images/maltego-logo.svg" height= "50" width= "50">
@@ -63,8 +64,11 @@
 
 ## 📘 Blogs
 - [Tale of my first bounty](https://dewangpanchal98.medium.com/)
+  
 - [Microsoft Bug bounty](https://dewangpanchal98.medium.com/)
+  
 - [403 Forbidden bypass](https://dewangpanchal98.medium.com/)
+  
 - [Explot CVE-2022-23808](https://dewangpanchal98.medium.com/)
 
 ▶ [... view more](https://dewangpanchal98.medium.com/)
